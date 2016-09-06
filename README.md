@@ -13,7 +13,7 @@ A program to see if 3 numbers make up a triangle and what kind of triangle it is
 | Do the 3 numbers make a triangle?  | 1,2,3 | false/not triangle |
 |                                    | 3,4,5 | true/triangle      |
 | Is it scalene? (no equal sides)    | 3,4,5 | true/scalene       |
-| Is it isocolese? (2 equal sides)   | 3,3,4 | true/isosolese     |
+| Is it isosceles? (2 equal sides)   | 3,3,4 | true/isosceles     |
 | Is it equilateral? (3 equal sides) | 3,3,3 | true/equilateral   |
 
 ## Setup/Installation
